@@ -668,6 +668,10 @@ h1 {
         }
 
         .back-button:hover {
-            background-color:#ff15e7d3;
-        }
-        
+            background-color:#ff15e7d3;}
+       
+   .yt-cominsoon{
+    width:100%;
+    height:70%;
+    margin-top:1vh;
+}
